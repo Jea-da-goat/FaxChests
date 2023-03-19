@@ -1,0 +1,7 @@
+name: FaxChests
+version: '1.0-SNAPSHOT'
+main: com.itndev.faxruins.Main
+api-version: 1.13
+commands:
+  창고:
+    description: 창고 메인 명령어
